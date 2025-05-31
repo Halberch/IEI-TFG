@@ -1,0 +1,33 @@
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\obj\Debug\Setupstretching.Form1.resources
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\obj\Debug\Setupstretching.Properties.Resources.resources
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\bin\Debug\Setupstretching.exe.config
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\bin\Debug\Setupstretching.exe
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\bin\Debug\Setupstretching.pdb
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\obj\Debug\Setupstretching.exe
+C:\Users\alber\Desktop\TFG\VisualStudio\Setupstretching\Setupstretching\obj\Debug\Setupstretching.pdb
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\bin\Debug\Setupstretching.exe.config
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\bin\Debug\Setupstretching.exe
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\bin\Debug\Setupstretching.pdb
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\obj\Debug\Setupstretching.Form1.resources
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\obj\Debug\Setupstretching.Properties.Resources.resources
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\obj\Debug\Setupstretching.exe
+C:\Users\alber\Desktop\Setupstretching\Setupstretching\obj\Debug\Setupstretching.pdb
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\bin\Debug\Setupstretching.exe.config
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\bin\Debug\Setupstretching.exe
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\bin\Debug\Setupstretching.pdb
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.AssemblyReference.cache
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.SuggestedBindingRedirects.cache
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\obj\Debug\Setupstretching.Form1.resources
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\obj\Debug\Setupstretching.Properties.Resources.resources
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.GenerateResource.cache
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\obj\Debug\Setupstretching.csproj.CoreCompileInputs.cache
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\obj\Debug\Setupstretching.exe
+C:\Users\alber\Desktop\Cosas TFG\Setupstretching\Setupstretching\obj\Debug\Setupstretching.pdb
